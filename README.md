@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avishek Devnath</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate software engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishekdevnath&label=Profile%20views&color=0e75b6&style=flat" alt="avishekdevnath" /> </p>
 
