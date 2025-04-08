@@ -51,9 +51,6 @@ Welcome to my GitHub profile! 👋 I’m **Avishek**, a passionate **Software En
 ## 📚 **Education & Certifications**
 
 - **MSc in Computer Science and Engineering**, University of Dhaka, Bangladesh  
-- **Certifications**: 
-  - **AWS Certified Solutions Architect**
-  - **Google Cloud Professional Developer**
 
 ---
 
