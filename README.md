@@ -79,12 +79,6 @@ Feel free to reach out if you have any questions about **software engineering**,
 ### **Additional Sections to Consider Adding:**
 
 - **Blog**: Comming Soon
-- **Badges**: Add badges for technologies you’ve mastered, e.g., **React**, **Django**, **Python**, **Docker**, etc.
+- **Badges**: Comming Soon
 
----
-
-### **Final Thoughts:**
-- **Personalization**: Make sure the content resonates with your unique style and the work you're most proud of.
-- **GitHub Stats**: Keep them updated to reflect the latest contributions.
-- **Badges**: Use shields.io for highlighting certifications, achievements, or milestones (e.g., `followers`, `stars`, `forks`).
 
