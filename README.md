@@ -1,17 +1,90 @@
-<h1 align="center">Hi 👋, I'm Avishek Devnath</h1>
-<h3 align="center">A passionate software engineer from Bangladesh</h3>
+# 👨‍💻 Avishek Devnath | Senior CS Instructor | Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishekdevnath&label=Profile%20views&color=0e75b6&style=flat" alt="avishekdevnath" /> </p>
+Welcome to my GitHub profile! 👋 I’m **Avishek**, a passionate **Software Engineer** and **CS Instructor** with experience in **full-stack development**, **AI**, and **bioinformatics**. I love building impactful tools, solving complex problems, and contributing to the open-source community.
 
+🚀 **Current Focus**:  
+- Developing **AI-driven tools** and **bioinformatics applications**.
+- Mentoring students and **educating future engineers**.
+- Contributing to **open-source projects** in the **healthcare** and **AI space**.
+- **Seeking to join a company** as a **Software Engineer** to further grow professionally and contribute to impactful projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avishek-devnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avishek-devnath" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+## 🌱 **About Me**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishekdevnath&show_icons=true&locale=en&layout=compact" alt="avishekdevnath" /></p>
+- **Role**: Senior CS Instructor at **Phitron** | Passionate about teaching **C**, **C++**, **Python**, **Django**, and **web technologies**.
+- **Current Interests**: 
+  - Open-source contributions to **bioinformatics** and **AI**.
+  - **System design** and **scalable architectures**.
+  - Building tools that bridge **biotech** and **software engineering**.
+- **Technologies I love**: 
+  - **Frontend**: React, Next.js, Node.js
+  - **Backend**: Django, Flask, Node.js
+  - **Database**: PostgreSQL, MongoDB, SQL
+  - **AI/ML**: TensorFlow, PyTorch, OpenAI API
+  - **Other**: Docker, Kubernetes, GraphQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishekdevnath&show_icons=true&locale=en" alt="avishekdevnath" /></p>
+---
+
+## 📦 **Tech Stats & Contributions**
+
+### **Top Technologies Used**  
+- **Languages**: Python, JavaScript, Java, Golang, C/C++
+- **Frameworks**: React, Next.js, Django, Flask
+- **Databases**: PostgreSQL, MongoDB
+- **AI/ML**: TensorFlow, PyTorch, OpenAI API
+
+---
+
+### **GitHub Stats**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishekdevnath&show_icons=true&hide_title=true)
+
+- **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishekdevnath&layout=compact)
+
+---
+
+## 📚 **Education & Certifications**
+
+- **MSc in Computer Science and Engineering**, University of Dhaka, Bangladesh  
+- **Certifications**: 
+  - **AWS Certified Solutions Architect**
+  - **Google Cloud Professional Developer**
+
+---
+
+## 🧑‍🏫 **Teaching & Mentorship**
+
+As an instructor at **Phitron**, I teach **C**, **C++**, **Python**, **PostgreSQL**, **Django**, and **web technologies**. I mentor students working on **AI**, **ML**, and **bioinformatics** projects.
+
+---
+
+## 📬 **How to Reach Me**
+
+- **Email**: [avishekdevnath@gmail.com](mailto:avishekdevnath@gmail.com)
+- **LinkedIn**: [Avishek Devnath](https://www.linkedin.com/in/avishek-devnath/)
+- **GitHub**: [@Avishekdevnath](https://github.com/Avishekdevnath)
+
+Feel free to reach out if you have any questions about **software engineering**, **bioinformatics**, or **open-source projects**. I’m always happy to help!
+
+---
+
+## 🔥 **Let's Connect and Collaborate!**
+
+- Interested in contributing to open-source projects or looking for mentorship? Reach out to me directly through GitHub or email, and let’s make amazing things happen! 💪
+- **Currently looking for full-time opportunities** as a **Software Engineer** to bring my skills to a dynamic team and build impactful software.
+
+---
+
+### **Additional Sections to Consider Adding:**
+
+- **Blog**: Comming Soon
+- **Badges**: Add badges for technologies you’ve mastered, e.g., **React**, **Django**, **Python**, **Docker**, etc.
+
+---
+
+### **Final Thoughts:**
+- **Personalization**: Make sure the content resonates with your unique style and the work you're most proud of.
+- **GitHub Stats**: Keep them updated to reflect the latest contributions.
+- **Badges**: Use shields.io for highlighting certifications, achievements, or milestones (e.g., `followers`, `stars`, `forks`).
+
