@@ -18,11 +18,15 @@ Welcome to my GitHub profile! 👋 I’m **Avishek**, a passionate **Software En
   - **System design** and **scalable architectures**.
   - Building tools that bridge **biotech** and **software engineering**.
 - **Technologies I love**: 
-  - **Frontend**: React, Next.js, Node.js
-  - **Backend**: Django, Flask, Node.js
-  - **Database**: PostgreSQL, MongoDB, SQL
-  - **AI/ML**: TensorFlow, PyTorch, OpenAI API
-  - **Other**: Docker, Kubernetes, GraphQL
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092D44?style=flat&logo=django&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -76,9 +80,5 @@ Feel free to reach out if you have any questions about **software engineering**,
 
 ---
 
-### **Additional Sections to Consider Adding:**
-
-- **Blog**: Comming Soon
-- **Badges**: Comming Soon
 
 
