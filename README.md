@@ -1,6 +1,6 @@
 # 👨‍💻 Avishek Devnath | Senior CS Instructor | Software Engineer
 
-Welcome to my GitHub profile! 👋 I’m **Avishek**, a passionate **Software Engineer** and **CS Instructor** with experience in **full-stack development**, **AI**, and **bioinformatics**. I love building impactful tools, solving complex problems, and contributing to the open-source community.
+Welcome to my GitHub profile! 👋 I’m **Avishek**, a passionate **Software Engineer** and **CS Instructor** with experience in **full-stack development**, **AI**, **ML** and **cybersecurity**. I love building impactful tools, solving complex problems, and contributing to the open-source community.
 
 🚀 **Current Focus**:  
 - Developing **AI-driven tools** and **bioinformatics applications**.
