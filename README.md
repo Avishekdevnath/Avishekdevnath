@@ -9,13 +9,13 @@ I specialize in taking systems from **unclear requirements to production archite
 
 ## 🏗️ System Design & Ownership
 
-I’ve designed and built **internal and public-facing platforms used by hundreds of active users**, owning systems across their full lifecycle:
+I’ve designed and built **internal and public-facing platforms used in active environments**, owning systems across their full lifecycle:
 
 - architecture and service boundaries  
 - backend APIs and data modeling  
-- authentication and RBAC-heavy authorization  
+- authentication and RBAC-heavy authorization flows  
 - background processing and long-running tasks  
-- iteration, maintenance, and refactoring in active use  
+- iteration, maintenance, and refactoring after launch  
 
 These systems were **deployed, evolved, and maintained over time**, shaped by real user behavior and increasing complexity rather than static specifications.
 
@@ -23,11 +23,35 @@ These systems were **deployed, evolved, and maintained over time**, shaped by re
 
 ## 🔐 Representative Systems
 
-### Biometrics & Privacy-Driven Design
-Designed an **offline, consent-based biometric face recognition system**, where **offline inference** was chosen to eliminate data exfiltration risk and simplify trust boundaries. The system uses **template-based matching** and balances **privacy, latency, accuracy, and storage** through explicit architectural trade-offs instead of cloud-first defaults.
+### 🏫 Product Systems (Core Work)
 
-### Backend Systems with ML Components
-Designed backend platforms that integrate ML as part of larger systems, including an **end-to-end customer churn prediction pipeline** and an **enterprise-style RAG knowledge platform**. The focus was on **data flow design, retrieval accuracy vs. latency trade-offs, cost control, and traceability**, treating ML as a subsystem within production architectures.
+**SMS-Web — Role-Based Student Management Platform**  
+Designed and built a **backend-led, RBAC-heavy system** for managing students, invitations, and administrative workflows. Owned **data modeling, authentication, authorization logic, and API design**, with a focus on correctness, access control, and long-term maintainability as requirements evolved.
+
+**BrainScale CRM — Internal CRM & Workflow Platform**  
+Designed backend systems for an **internal CRM platform** supporting structured workflows, user roles, and operational data tracking. Focused on **service boundaries, permission models, and evolving data schemas**, ensuring the system remained adaptable as business needs changed.
+
+These platforms represent **core product work** where reliability, permissions, and data integrity mattered more than novelty.
+
+---
+
+### 🔐 Biometrics & Privacy-Driven Systems
+Designed an **offline, consent-based biometric face recognition system**, where **offline inference** was deliberately chosen to eliminate data exfiltration risk and simplify trust boundaries. The system uses **template-based matching** and balances **privacy, latency, accuracy, and storage** through explicit architectural trade-offs rather than cloud-first defaults.
+
+---
+
+### 🤖 Backend Systems with ML Components
+Designed backend platforms that integrate ML as part of larger systems, including an **end-to-end customer churn prediction pipeline** and an **enterprise-style RAG knowledge platform**. The focus was on **data flow design, retrieval accuracy vs. latency trade-offs, cost control, and traceability**, treating ML as a **subsystem within production architectures**, not as isolated experiments.
+
+---
+
+### 📦 Developer Tooling (Python & NPM Packages)
+Built and maintained **Python and NPM packages** used as developer tools, focusing on:
+- clear APIs and documentation  
+- safe defaults and usability  
+- packaging, versioning, and distribution  
+
+These projects demonstrate attention to **developer experience**, backward compatibility, and maintaining software consumed by others rather than only internal code.
 
 ---
 
