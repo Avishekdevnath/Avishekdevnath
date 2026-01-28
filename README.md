@@ -57,12 +57,14 @@ These projects demonstrate attention to **developer experience**, backward compa
 
 ## ⚙️ Technology & Engineering Trade-Offs
 
-I choose tools based on **engineering trade-offs**, not preference:
+I choose tools based on **engineering trade-offs**, not preference, with a primary focus on **Node.js-based backend systems**:
 
-- **Go** — backend services where performance, concurrency, and operational simplicity matter  
-- **Python** — data-heavy workflows and ML pipelines  
-- **TypeScript (Node.js, Next.js)** — user-facing systems requiring rapid iteration with strong type safety  
-- **Databases** — PostgreSQL and MongoDB, selected based on access patterns and consistency needs  
+- **Node.js (NestJS)** — primary backend stack for building structured, maintainable services with clear module boundaries, dependency injection, and RBAC-heavy authorization logic  
+- **TypeScript (Next.js)** — user-facing systems requiring rapid iteration, strong typing, and clear contracts with backend services  
+- **Go** — backend services where performance, concurrency, and operational simplicity are critical  
+- **Python** — data-heavy workflows, ML pipelines, and backend tooling  
+
+- **Databases** — PostgreSQL and MongoDB, selected based on access patterns, consistency requirements, and schema evolution needs
 
 Systems are designed with **failure modes, background processing, retries, and scalability limits** in mind.
 
