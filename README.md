@@ -81,7 +81,7 @@ Alongside engineering, I mentor as a **Senior CS Instructor at Phitron**, where 
 ## 🎓 Education
 
 - **MSc in Computer Science and Engineering** — University of Dhaka  
-  Focus areas: systems, security, applied AI.
+  **Focus areas:** Quantum Computing, Artificial Intelligence & Machine Learning, Cybersecurity, and Big Data Systems
 
 ---
 
