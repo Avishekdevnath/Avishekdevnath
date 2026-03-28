@@ -1,94 +1,147 @@
-# 👨‍💻 Avishek Devnath  
-### Backend-Focused Software Engineer · System Design Ownership
+<div align="center">
 
-Hi 👋 I’m **Avishek Devnath**, a **backend-focused Software Engineer** with hands-on experience designing and owning systems under **real operational constraints**. I currently work as a **Senior CS Instructor at Phitron**, but my primary identity is as a **system-building engineer**, not an educator.
+# Avishek Devnath
+### Backend Engineer · System Design Ownership · Node.js · Go · Python
 
-I specialize in taking systems from **unclear requirements to production architectures**, owning design decisions around **data flow, authorization, scalability, and long-term maintainability**, and living with those decisions as systems evolve.
+I design and build systems end-to-end — from data modeling and authorization logic to API contracts, background processing, and deployment. 3+ years owning production backends across multi-tenant SaaS, financial workflows, secure messaging, RAG pipelines, and biometric systems. I choose tools on trade-offs: NestJS for structured backends, Go for performance-critical services, Python for data and ML, Next.js for product frontends.
 
----
+<br/>
 
-## 🏗️ System Design & Ownership
+![Users](https://img.shields.io/badge/Users%20Impacted-10%2C000%2B-blue?style=flat-square)
+![Latency](https://img.shields.io/badge/Latency%20Reduction-45%25-green?style=flat-square)
+![Mentored](https://img.shields.io/badge/Engineers%20Mentored-1%2C500%2B-orange?style=flat-square)
+![Projects](https://img.shields.io/badge/GitHub%20Projects-36-purple?style=flat-square)
+![Packages](https://img.shields.io/badge/Published%20Packages-6-red?style=flat-square)
 
-I’ve designed and built **internal and public-facing platforms used in active environments**, owning systems across their full lifecycle:
+<br/>
 
-- architecture and service boundaries  
-- backend APIs and data modeling  
-- authentication and RBAC-heavy authorization flows  
-- background processing and long-running tasks  
-- iteration, maintenance, and refactoring after launch  
+[![GitHub](https://img.shields.io/badge/GitHub-Avishekdevnath-181717?style=flat-square&logo=github)](https://github.com/Avishekdevnath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avishek--devnath--cse-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/avishek-devnath-cse/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-avishekdevnath.com-000000?style=flat-square&logo=vercel)](https://avishekdevnath.com/)
+[![Email](https://img.shields.io/badge/Email-avishekdevnath%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:avishekdevnath@gmail.com)
 
-These systems were **deployed, evolved, and maintained over time**, shaped by real user behavior and increasing complexity rather than static specifications.
+> 🔍 Open to **Backend Engineer**, **Full-Stack Engineer**, and **AI/Backend** roles — remote or Dhaka-based.
 
----
-
-## 🔐 Representative Systems
-
-### 🏫 Product Systems (Core Work)
-
-**SMS-Web — Role-Based Student Management Platform**  
-Designed and built a **backend-led, RBAC-heavy system** for managing students, invitations, and administrative workflows. Owned **data modeling, authentication, authorization logic, and API design**, with a focus on correctness, access control, and long-term maintainability as requirements evolved.
-
-**BrainScale CRM — Internal CRM & Workflow Platform**  
-Designed backend systems for an **internal CRM platform** supporting structured workflows, user roles, and operational data tracking. Focused on **service boundaries, permission models, and evolving data schemas**, ensuring the system remained adaptable as business needs changed.
-
-These platforms represent **core product work** where reliability, permissions, and data integrity mattered more than novelty.
+</div>
 
 ---
 
-### 🔐 Biometrics & Privacy-Driven Systems
-Designed an **offline, consent-based biometric face recognition system**, where **offline inference** was deliberately chosen to eliminate data exfiltration risk and simplify trust boundaries. The system uses **template-based matching** and balances **privacy, latency, accuracy, and storage** through explicit architectural trade-offs rather than cloud-first defaults.
+## Featured Projects
+
+### [BrainScale CRM](https://github.com/Avishekdevnath/BrainScale-CRM) · [Live](https://brain-scale-crm.vercel.app)
+Multi-tenant CRM serving **10,000+ users** — 6-role RBAC, schema-partitioned tenancy, 50+ APIs, **45% latency reduction** via composite index optimization.
+
+`NestJS` `PostgreSQL` `Prisma` `Docker` `JWT/RBAC`
 
 ---
 
-### 🤖 Backend Systems with ML Components
-Designed backend platforms that integrate ML as part of larger systems, including an **end-to-end customer churn prediction pipeline** and an **enterprise-style RAG knowledge platform**. The focus was on **data flow design, retrieval accuracy vs. latency trade-offs, cost control, and traceability**, treating ML as a **subsystem within production architectures**, not as isolated experiments.
+### [UrAccount — Accounting SaaS](https://github.com/Avishekdevnath/UrAccount-Solutions) · [Live](https://uraccount.vercel.app)
+Multi-tenant accounting platform with double-entry bookkeeping, idempotent money-moving endpoints, AR/AP workflows, and full financial reporting.
+
+`Django` `DRF` `Next.js` `PostgreSQL` `RBAC`
 
 ---
 
-### 📦 Developer Tooling (Python & NPM Packages)
-Built and maintained **Python and NPM packages** used as developer tools, focusing on:
-- clear APIs and documentation  
-- safe defaults and usability  
-- packaging, versioning, and distribution  
+### [SMS ERP](https://github.com/Avishekdevnath/SMS-ERP) · [Live](https://sms-erp.vercel.app)
+Role-based student management ERP handling **10,000+ learners** — enrollment workflows, permission-aware dashboards, **40% performance improvement**.
 
-These projects demonstrate attention to **developer experience**, backward compatibility, and maintaining software consumed by others rather than only internal code.
+`Next.js` `TypeScript` `MongoDB` `Prisma` `JWT/RBAC`
 
 ---
 
-## ⚙️ Technology & Engineering Trade-Offs
+### [uni-pos](https://github.com/Avishekdevnath/uni-pos)
+Multi-tenant SaaS POS — tax engine, discount engine, inventory orchestration, atomic checkout flows, event-driven audit logging.
 
-I choose tools based on **engineering trade-offs**, not preference, with a primary focus on **Node.js-based backend systems**:
-
-- **Node.js (NestJS)** — primary backend stack for building structured, maintainable services with clear module boundaries, dependency injection, and RBAC-heavy authorization logic  
-- **TypeScript (Next.js)** — user-facing systems requiring rapid iteration, strong typing, and clear contracts with backend services  
-- **Go** — backend services where performance, concurrency, and operational simplicity are critical  
-- **Python** — data-heavy workflows, ML pipelines, and backend tooling  
-
-- **Databases** — PostgreSQL and MongoDB, selected based on access patterns, consistency requirements, and schema evolution needs
-
-Systems are designed with **failure modes, background processing, retries, and scalability limits** in mind.
+`NestJS` `Next.js` `Electron` `PostgreSQL` `TypeScript`
 
 ---
 
-## 🧩 Fundamentals & Mentorship
+### [Aegis Knowledge Mesh](https://github.com/Avishekdevnath/Aegis-Knowledge-Mesh)
+Enterprise RAG knowledge platform — document ingestion, vector retrieval, and citation-backed responses. ML treated as a production subsystem, not an experiment.
 
-I’ve solved **500+ data structures and algorithms problems**, which informs how I reason about performance, scalability, and backend design trade-offs.
-
-Alongside engineering, I mentor as a **Senior CS Instructor at Phitron**, where I’ve guided **1,000+ students** in core computer science and software engineering. Teaching strengthens my ability to design clear systems and communicate technical trade-offs without defining my professional identity.
-
----
-
-## 🎓 Education
-
-- **MSc in Computer Science and Engineering** — University of Dhaka  
-  **Focus areas:** Quantum Computing, Artificial Intelligence & Machine Learning, Cybersecurity, and Big Data Systems
+`Python` `FastAPI` `pgvector` `FAISS` `OpenAI`
 
 ---
 
-## 📬 Connect
+### [IdentiFace](https://github.com/Avishekdevnath/IdentiFace)
+Offline, consent-based face recognition using MTCNN + FaceNet + FAISS. Offline inference was a deliberate architectural choice to eliminate data exfiltration risk and simplify trust boundaries.
 
-- **Email**: avishekdevnath@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/avishek-devnath  
-- **Portfolio**: https://avishek-devnath.netlify.app  
+`Python` `FAISS` `SQLite` `FastAPI`
 
-Currently seeking **Backend Engineer / Backend-leaning Full-Stack** roles where **system design ownership and operational responsibility** matter.
+---
+
+### [WhisperWire](https://github.com/Avishekdevnath/WhisperWire-Backend) · [Live](https://whisper-wire-backend.vercel.app)
+Secure messaging backend in Go with encryption-oriented architecture and operational simplicity as first-class concerns.
+
+`Go` `PostgreSQL`
+
+---
+
+### [KhoshGolpo](https://github.com/Avishekdevnath/Khosh_Golpo_A_True_Medium) · [Live](https://khoshgolpo-platform.vercel.app)
+AI-augmented community platform — threaded discussions, real-time messaging, AI-assisted moderation, and trust & safety workflows.
+
+`FastAPI` `Next.js` `MongoDB` `Python` `TypeScript`
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|---|---|
+| **Languages** | TypeScript · Python · Go · JavaScript · SQL · C++ |
+| **Backend** | Node.js · NestJS · Express · FastAPI · Django/DRF |
+| **Frontend** | Next.js · React · Redux · Tailwind CSS |
+| **Databases** | PostgreSQL · MongoDB · MySQL · SQLite · pgvector · FAISS |
+| **Infrastructure** | Docker · Kubernetes · AWS · GitHub Actions · Vercel · Render |
+| **Engineering Practices** | Multi-tenancy · RBAC · JWT · System Design · Idempotency · Audit Logging |
+| **AI / ML** | RAG · OpenAI · Gemini · scikit-learn · FAISS · pgvector · MTCNN · FaceNet |
+
+---
+
+## By the Numbers
+
+| Metric | Detail |
+|---|---|
+| 👥 **10,000+ users** | across 3 production systems |
+| ⚡ **45% latency reduction** | via query optimization and composite indexing |
+| 📈 **40% performance improvement** | across major platforms |
+| 🎓 **1,500+ engineers mentored** | in system design and backend architecture |
+| 🧩 **1,000+ problems solved** | DSA and algorithmic challenges |
+| 📦 **6 published packages** | Python (PyPI) and Node (npm) |
+| 🗂️ **36 GitHub projects** | spanning 5+ problem domains |
+
+---
+
+## Published Packages
+
+**Python (PyPI)**
+
+- [`xerror`](https://github.com/Avishekdevnath/xerror) — AI-powered error explanation CLI for multi-language developer workflows · [PyPI](https://pypi.org/project/xerror/)
+- [`CacheFlight`](https://github.com/Avishekdevnath/CacheFlight) — Request deduplication and cache utility
+- [`py-onesend`](https://github.com/Avishekdevnath/py-onesend) — Unified notification sending abstraction
+- [`py-trashguard`](https://github.com/Avishekdevnath/py-trashguard) — Input sanitization and validation
+- [`py-humantime`](https://github.com/Avishekdevnath/py-humantime) — Human-readable time formatting
+
+**Node (npm)**
+
+- [`package-detector`](https://www.npmjs.com/package/package-detector) — Detect installed packages in a project
+- [`project-health`](https://www.npmjs.com/package/project-health) — Project dependency and health checker
+
+---
+
+## Education
+
+**M.Sc. in Computer Science & Engineering** — University of Dhaka *(Ongoing)*
+Focus: Quantum Computing · AI/ML · Cybersecurity · Big Data Systems
+
+**B.Sc. in Computer Science & Engineering** — BGC Trust University Bangladesh
+Graduated top 10% · Focus: Scalable Web Systems · Business Intelligence
+
+---
+
+## Let's Connect
+
+📧 [avishekdevnath@gmail.com](mailto:avishekdevnath@gmail.com)
+💼 [linkedin.com/in/avishek-devnath](https://www.linkedin.com/in/avishek-devnath/)
+🌐 [avishekdevnath.vercel.app](https://avishekdevnath.vercel.app/)
+🐙 [github.com/Avishekdevnath](https://github.com/Avishekdevnath)
